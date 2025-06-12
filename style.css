@@ -184,3 +184,29 @@ ul li a:hover ion-icon {
     text-decoration: none;
 }
 
+@keyframes slide-in {
+    from {
+        left: 0;
+    }
+    to {
+        left: 50%;
+    }
+}
+
+@keyframes slide-back {
+    from {
+        left: 50%;
+    }
+    to {
+        left: 0;
+    }
+}
+
+@media(min-widht: 768px) {
+    :root {
+        ul li a ion-icon {
+            width: 25px;
+            height: 25px;
+        }
+    }
+}
