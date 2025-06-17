@@ -1,4 +1,4 @@
-<h1 align="center"> 🍽️ CUIABANO FOOD </h1>
+<h1 align="center"> SISTEMA DE RESTAURANTE </h1>
 
 <br>
 
@@ -25,14 +25,18 @@
 
 ## 👨‍💻 Projeto
 
-O **Cuiabano Food** é um restaurante virtual dedicado a divulgar e comercializar pratos típicos da região de Cuiabá e do Pantanal mato-grossense , como forma de valorizar a cultura local através da tecnologia. Este projeto visa simular uma plataforma web completa para gestão de cardápio, realização de pedidos e experiência do cliente online.
+Perfil de Contato é um projeto criado para guardar e organizar seus projetos pessoais ou profissionais em um só lugar. Ele funciona como uma espécie de “portfólio pessoal”, onde você pode salvar tudo o que já fez — como trabalhos, ideias, arquivos ou links — e manter isso registrado de forma prática e acessível.
+
+A ideia é que você tenha sempre à mão um espaço só seu, onde pode reunir seus projetos, acompanhar sua evolução e, se quiser, até mostrar para outras pessoas. É uma forma simples de manter tudo salvo, sem bagunça, e nunca mais perder o que você criou.
+
+
 
 <br>
 
 ## 💡 Sobre o Projeto
-Este trabalho faz parte do processo de formação técnica e visa aplicar os conhecimentos em programação, design e metodologias ágeis em um cenário real de desenvolvimento de software. Foi pensado com carinho para representar a riqueza cultural de Mato Grosso de forma digital e inovadora.
+Este projeto, chamado Perfil de Contato, foi criado para ajudar você a guardar, organizar e acessar seus projetos de forma simples e eficiente. Com ele, é possível registrar seus trabalhos pessoais ou profissionais, salvar ideias, arquivos e links importantes, e manter tudo reunido em um só lugar. A proposta é oferecer um espaço seguro e prático onde você possa acompanhar sua trajetória e ter seus projetos sempre à mão, prontos para serem consultados ou compartilhados quando quiser.
 
-Acessar Site Cuiabano Food **[Clique aqui](https://kaua-gabriel-franca.github.io/cuiabano-food/)**
+Acessar Site Perfil de Contato **[Clique aqui](https://kaua-gabriel-franca.github.io/perfil-contato/)**
 
 <br>
 
@@ -42,8 +46,8 @@ Acessar Site Cuiabano Food **[Clique aqui](https://kaua-gabriel-franca.github.io
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="80px" height="80px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="80px" height="80px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" width="80px" height="80px" />
-  <img src=".github/scroll-reveal.jpg" width="200px" height="100px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="80px" height="80px" />
+  
 </div>  
  
 <br>
@@ -51,8 +55,8 @@ Acessar Site Cuiabano Food **[Clique aqui](https://kaua-gabriel-franca.github.io
 - **HTML5** → Estruturação do projeto
 - **CSS3** → Estilização e responsividade
 - **JavaScript e jQuery** → Funcionalidades interativas
-- **ScrollReveal** → Animações suaves ao rolar a página
-- **Font Awesome** → Para ícones e fontes
+- **Google Fonts** → Distribui fontes gratuitas.
+- **Ionsicons** → Fornece ícones prontos para usar.
 
 
 <br>
@@ -69,7 +73,7 @@ Acessar Site Cuiabano Food **[Clique aqui](https://kaua-gabriel-franca.github.io
 
 ## 📷 Prévia do Projeto
 
-![Preview do projeto](.github/cuiabano-food-home.png)
+![Preview do projeto](.github/home.png)
 
 <br>
 
@@ -97,7 +101,7 @@ Para executar sugiro que abra o projeto com o Visual Studio Code (VSCode).
 Se estiver usando o VSCode é só instalar a extensão Live Server.
 Agora é só executar o arquivo index.html com a extensão Live Server, clique com botão esquerdo do mouse sobre o index.html e selecione a opção **Open with Live Server**.
 
-Pronto! dessa forma o projeto `Cuiabano Food` estará rodando localmente em sua maquina. Acesse no navegador o endereço abaixo:
+Pronto! dessa forma o projeto `Perfil de contato` estará rodando localmente em sua maquina. Acesse no navegador o endereço abaixo:
 
 ```
 http://127.0.0.1:5500/index.html
@@ -107,15 +111,15 @@ http://127.0.0.1:5500/index.html
 
 ## 🚩 Tenho Dúvidas... O que fazer?
 
-Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/kaua-gabriel-franca/cuiabano-food/issues)**. Assim que possível, responderei todas as dúvidas!
+Caso tenha dúvidas sobre o código do projeto, sintam-se a vontade em abrir uma **[ISSUE AQUI](https://github.com/kaua-gabriel-franca/perfil-contato/issues)**. Assim que possível, responderei todas as dúvidas!
 
 <br>
 
 ## 📌 Melhorias Futuras
 
-- Implementação de um sistema de pedidos online 🛒
-- Integração com API para gestão do cardápio 📊
-- Animações adicionais para maior interatividade ✨
+- Organizar melhor meus projetos.
+- Atualizar meus conteúdos com frequência.
+- Melhorar a apresentação visual do perfil.
 
 <br>
 
