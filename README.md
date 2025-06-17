@@ -1,4 +1,4 @@
-<h1 align="center"> SISTEMA DE RESTAURANTE </h1>
+<h1 align="center"> PERFIL DE CONTATO </h1>
 
 <br>
 
